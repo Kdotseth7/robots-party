@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboparty/static/css/main.63aa2ae6.chunk.css",
+    "main.js": "/roboparty/static/js/main.41155482.chunk.js",
+    "main.js.map": "/roboparty/static/js/main.41155482.chunk.js.map",
+    "runtime-main.js": "/roboparty/static/js/runtime-main.73ccb0a6.js",
+    "runtime-main.js.map": "/roboparty/static/js/runtime-main.73ccb0a6.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/roboparty/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.d59645c7.chunk.js": "/roboparty/static/js/2.d59645c7.chunk.js",
+    "static/js/2.d59645c7.chunk.js.map": "/roboparty/static/js/2.d59645c7.chunk.js.map",
+    "index.html": "/roboparty/index.html",
+    "precache-manifest.1e20ee2acd5a46589b9acd8941cb25b0.js": "/roboparty/precache-manifest.1e20ee2acd5a46589b9acd8941cb25b0.js",
+    "service-worker.js": "/roboparty/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/roboparty/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.63aa2ae6.chunk.css.map": "/roboparty/static/css/main.63aa2ae6.chunk.css.map",
+    "static/js/2.d59645c7.chunk.js.LICENSE.txt": "/roboparty/static/js/2.d59645c7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboparty/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73ccb0a6.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.d59645c7.chunk.js",
+    "static/css/main.63aa2ae6.chunk.css",
+    "static/js/main.41155482.chunk.js"
+  ]
+}
